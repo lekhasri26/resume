@@ -1,0 +1,103 @@
+.prof{
+	text-align:center;
+}
+.profile{
+	display: flex;
+	max-width: 200%;
+	text-align:center;
+	padding-left: 20%;
+	padding-right: 30%; 
+
+}
+.profile-view{
+	border: 2px solid black;
+	font-size: 25px;
+	background-color:cyan;
+	max-width:100%;
+	font-style: italic;	
+	background-image: url("../task-1/resu-bg.jpg");
+}
+.det{
+	text-align:center;
+	font-size: 25px;
+}
+.qualf{
+	border: 2px solid black;
+	width:200%;
+	background-color:powderblue;
+	font-style: italic;
+	font-size: 25px;
+	background-image: url("../task-1/resu-bg.jpg");
+
+}
+.img{
+	width: 10%;
+	padding-left: 20%;
+	padding-right: 20%;
+
+
+
+}
+table,th,td{
+	border:1px solid black;
+	border-collapse: collapse;	
+}
+h1.one{
+	text-decoration: underline;
+}
+
+
+@media only screen and (min-width:220px) and (max-width:580px){
+	.prof{
+	text-align:center;
+}
+.profile{
+	display: flex;
+	max-width: 200%;
+	text-align:center;
+	padding-left: 20%;
+	padding-right: 30%; 
+
+}
+.profile-view{
+	border: 2px solid black;
+	font-size: 25px;
+	background-color:cyan;
+	max-width:100%;
+	font-style: italic;	
+	background-image: url("../task-1/resu-bg.jpg");
+}
+.det{
+	text-align:center;
+	font-size: 25px;
+}
+.qualf{
+	border: 2px solid black;
+	width:200%;
+	background-color:powderblue;
+	font-style: italic;
+	font-size: 25px;
+	background-image: url("../task-1/resu-bg.jpg");
+
+}
+.img{
+	width: 10%;
+	padding-left: 20%;
+	padding-right: 20%;
+
+
+
+}
+table,th,td{
+	border:1px solid black;
+	border-collapse: collapse;	
+}
+h1.one{
+	text-decoration: underline;
+}
+
+
+
+
+
+
